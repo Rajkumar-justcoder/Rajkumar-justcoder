@@ -15,13 +15,13 @@ A Discord bot crafted with Node.js and Discord.js to empower YouTube creators in
 ### Custom RP Managing Bot for GVRP 🎮
 Designed and developed a bespoke Discord bot using Node.js, tailored specifically for role-playing communities.
 
-### NoteBear 📝
+### [NoteBear](https://notebear.vercel.app/) 📝
 A sleek todo app built with Mantine, React, and Vite, making note-taking a breeze!
 
-### React Wordle 🧩
+### [https://just-wordle.vercel.app/](https://just-wordle.vercel.app/) 🧩
 Challenge your vocabulary with this word puzzle game, built using React and CSS.
 
-### get-youtube-detail 📺
+### [get-youtube-detail](https://www.npmjs.com/package/get-youtube-detail) 📺
 Fetch detailed information about YouTube videos effortlessly with this handy npm package.
 
 ## Skills 💡
