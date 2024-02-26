@@ -1,12 +1,38 @@
-<h1 align="center">
-  <img src="https://github.com/Rajkumar-justcoder.png" alt="Rajkumar" />
-</h1>
+# Welcome to Rajkumar's Coding Corner! 🚀
 
-## Hey! 👋
-I'm Rajkumar, a 18 years old web developer from India.
-An web devloper with learning more...
-## Skills
-- 👨‍💻 JavaScript, PHP ,Java
-- ⚙️ Swing
-- 👁️ CSS, TW
-- 💽 MySQL, SQL, NoSQL
+<h1 align="center"><img src="https://github.com/Rajkumar-justcoder.png"></h1>
+Hey there! I'm Rajkumar, a passionate tech enthusiast and recent BCA graduate from Kadi Sarva Vishwavidyalaya. 
+
+## About Me 💻
+
+I'm always diving into new technologies and exploring the vast world of programming. From Discord bots to web apps, I love bringing ideas to life through code!
+
+## Projects 🛠️
+
+### YouTube Creator Café Bot 🎥
+A Discord bot crafted with Node.js and Discord.js to empower YouTube creators in managing their communities.
+
+### Custom RP Managing Bot for GVRP 🎮
+Designed and developed a bespoke Discord bot using Node.js, tailored specifically for role-playing communities.
+
+### NoteBear 📝
+A sleek todo app built with Mantine, React, and Vite, making note-taking a breeze!
+
+### React Wordle 🧩
+Challenge your vocabulary with this word puzzle game, built using React and CSS.
+
+### get-youtube-detail 📺
+Fetch detailed information about YouTube videos effortlessly with this handy npm package.
+
+## Skills 💡
+
+I'm proficient in React.js, Discord.js, JavaScript, Java, HTML, CSS, and more. Whether it's frontend magic or backend sorcery, I've got you covered!
+
+## Hobbies & Interests 🎨
+
+- Creating stunning Blender animations
+- Crafting my own Debian-based distro
+- Exploring the vast world of Linux
+- Diving into networking and hacking adventures
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rajkumarjustcoder) or check out my projects on [GitHub](https://github.com/rajkumar-justcoder)! Let's embark on coding adventures together! 🌟
